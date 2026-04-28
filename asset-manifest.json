@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.56144968.css",
-    "main.js": "/static/js/main.c3602409.js",
+    "main.css": "/static/css/main.c1aa166b.css",
+    "main.js": "/static/js/main.a365a83b.js",
     "static/media/Roboto-Bold.svg": "/static/media/Roboto-Bold.ff48b445fc18fc714b28.svg",
     "static/media/Roboto-Medium.svg": "/static/media/Roboto-Medium.d399aa4de71a6e82c77f.svg",
     "static/media/Roboto-Black.svg": "/static/media/Roboto-Black.f47c7bc6fe2e5cfb321d.svg",
@@ -28,6 +28,7 @@
     "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
     "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
     "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.8be2d1487420548b3b8d.ttf",
+    "static/media/eGMydashboardIconsfonts.svg": "/static/media/eGMydashboardIconsfonts.be7f30f762bf9916bafa.svg",
     "static/media/Graphik-Extralight.eot": "/static/media/Graphik-Extralight.6cf8e6be6b04b60aff8d.eot",
     "static/media/Graphik-Extralight.ttf": "/static/media/Graphik-Extralight.9f970b2f38c61d288237.ttf",
     "static/media/Graphik-Thin.eot": "/static/media/Graphik-Thin.caf1ff359e8cd982a862.eot",
@@ -44,7 +45,6 @@
     "static/media/Graphik-Black.ttf": "/static/media/Graphik-Black.f4b1e21f433b60c043ef.ttf",
     "static/media/Graphik-Regular.eot": "/static/media/Graphik-Regular.66c9fa085ea0226a31a6.eot",
     "static/media/Graphik-Regular.ttf": "/static/media/Graphik-Regular.18facad61716c7e4b5d4.ttf",
-    "static/media/eGMydashboardIconsfonts.svg": "/static/media/eGMydashboardIconsfonts.35176286ee17b8c010eb.svg",
     "static/media/Roboto-Medium.woff": "/static/media/Roboto-Medium.4d91410b86daadafb256.woff",
     "static/media/Roboto-Black.woff": "/static/media/Roboto-Black.13825cf82d668abaf6e5.woff",
     "static/media/Roboto-Bold.woff": "/static/media/Roboto-Bold.f2c9ef52a2d9471cf73f.woff",
@@ -67,21 +67,21 @@
     "static/media/Graphik-Light.woff2": "/static/media/Graphik-Light.85faa12daaebe9e04e63.woff2",
     "static/media/Graphik-Thin.woff2": "/static/media/Graphik-Thin.e13ab6594ef3bdaf455a.woff2",
     "static/media/Graphik-Regular.woff2": "/static/media/Graphik-Regular.c8fd8ede1913921ba970.woff2",
-    "static/media/eGMydashboardIconsfonts.ttf": "/static/media/eGMydashboardIconsfonts.81a43b267c952d17469f.ttf",
-    "static/media/eGMydashboardIconsfonts.woff": "/static/media/eGMydashboardIconsfonts.777a7ef77f8cc9fb44d4.woff",
-    "static/media/eGMydashboardIconsfonts.woff2": "/static/media/eGMydashboardIconsfonts.2e995591c77a06f83d6b.woff2",
+    "static/media/eGMydashboardIconsfonts.ttf": "/static/media/eGMydashboardIconsfonts.c7ea6c2b872618a8636b.ttf",
+    "static/media/eGMydashboardIconsfonts.woff": "/static/media/eGMydashboardIconsfonts.ef89879f33f97e409b78.woff",
+    "static/media/eGMydashboardIconsfonts.woff2": "/static/media/eGMydashboardIconsfonts.23a5aacc20c71d3e895f.woff2",
     "static/media/last-page-arrow.svg": "/static/media/last-page-arrow.8deb76b1d7e7c68f84aa.svg",
     "static/media/first-page-arrow.svg": "/static/media/first-page-arrow.de11cd4ab36e9366984a.svg",
+    "static/media/search-icon.svg": "/static/media/search-icon.0422d044a767eabb33d5.svg",
     "index.html": "/index.html",
     "static/media/right-arrow.svg": "/static/media/right-arrow.28324bae424499191c8f.svg",
     "static/media/down-arrow.svg": "/static/media/down-arrow.1e0954231a1af9f3b69e.svg",
     "static/media/left-arrow.svg": "/static/media/left-arrow.f5038f39c08efd83d6e9.svg",
-    "static/media/tab-hover.svg": "/static/media/tab-hover.0774daeaf278927afaf6.svg",
-    "main.56144968.css.map": "/static/css/main.56144968.css.map",
-    "main.c3602409.js.map": "/static/js/main.c3602409.js.map"
+    "main.c1aa166b.css.map": "/static/css/main.c1aa166b.css.map",
+    "main.a365a83b.js.map": "/static/js/main.a365a83b.js.map"
   },
   "entrypoints": [
-    "static/css/main.56144968.css",
-    "static/js/main.c3602409.js"
+    "static/css/main.c1aa166b.css",
+    "static/js/main.a365a83b.js"
   ]
 }

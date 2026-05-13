@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.82767a4c.css",
-    "main.js": "/static/js/main.08a504f6.js",
+    "main.css": "/static/css/main.b17beaa9.css",
+    "main.js": "/static/js/main.eac7a422.js",
     "static/media/Roboto-Bold.svg": "/static/media/Roboto-Bold.ff48b445fc18fc714b28.svg",
     "static/media/Roboto-Medium.svg": "/static/media/Roboto-Medium.d399aa4de71a6e82c77f.svg",
     "static/media/Roboto-Black.svg": "/static/media/Roboto-Black.f47c7bc6fe2e5cfb321d.svg",
@@ -28,7 +28,7 @@
     "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
     "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
     "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.8be2d1487420548b3b8d.ttf",
-    "static/media/eGMydashboardIconsfonts.svg": "/static/media/eGMydashboardIconsfonts.be7f30f762bf9916bafa.svg",
+    "static/media/eGMydashboardIconsfonts.svg": "/static/media/eGMydashboardIconsfonts.f1089957c2aa47cff20f.svg",
     "static/media/Graphik-Extralight.eot": "/static/media/Graphik-Extralight.6cf8e6be6b04b60aff8d.eot",
     "static/media/Graphik-Extralight.ttf": "/static/media/Graphik-Extralight.9f970b2f38c61d288237.ttf",
     "static/media/Graphik-Thin.eot": "/static/media/Graphik-Thin.caf1ff359e8cd982a862.eot",
@@ -67,9 +67,9 @@
     "static/media/Graphik-Light.woff2": "/static/media/Graphik-Light.85faa12daaebe9e04e63.woff2",
     "static/media/Graphik-Thin.woff2": "/static/media/Graphik-Thin.e13ab6594ef3bdaf455a.woff2",
     "static/media/Graphik-Regular.woff2": "/static/media/Graphik-Regular.c8fd8ede1913921ba970.woff2",
-    "static/media/eGMydashboardIconsfonts.ttf": "/static/media/eGMydashboardIconsfonts.c7ea6c2b872618a8636b.ttf",
-    "static/media/eGMydashboardIconsfonts.woff": "/static/media/eGMydashboardIconsfonts.ef89879f33f97e409b78.woff",
-    "static/media/eGMydashboardIconsfonts.woff2": "/static/media/eGMydashboardIconsfonts.23a5aacc20c71d3e895f.woff2",
+    "static/media/eGMydashboardIconsfonts.ttf": "/static/media/eGMydashboardIconsfonts.c1ab79ed004877b85651.ttf",
+    "static/media/eGMydashboardIconsfonts.woff": "/static/media/eGMydashboardIconsfonts.966bf4ce38b34ad3dc3e.woff",
+    "static/media/eGMydashboardIconsfonts.woff2": "/static/media/eGMydashboardIconsfonts.55957b85a1783f911a83.woff2",
     "static/media/last-page-arrow.svg": "/static/media/last-page-arrow.8deb76b1d7e7c68f84aa.svg",
     "static/media/first-page-arrow.svg": "/static/media/first-page-arrow.de11cd4ab36e9366984a.svg",
     "static/media/item-move-bottom.svg": "/static/media/item-move-bottom.1f31f10452928c93d704.svg",
@@ -87,11 +87,11 @@
     "static/media/left-arrow.svg": "/static/media/left-arrow.f5038f39c08efd83d6e9.svg",
     "static/media/plus-icon.svg": "/static/media/plus-icon.f212ee6b7f9a48826224.svg",
     "static/media/minus-icon.svg": "/static/media/minus-icon.80bbf1e032aede43fe85.svg",
-    "main.82767a4c.css.map": "/static/css/main.82767a4c.css.map",
-    "main.08a504f6.js.map": "/static/js/main.08a504f6.js.map"
+    "main.b17beaa9.css.map": "/static/css/main.b17beaa9.css.map",
+    "main.eac7a422.js.map": "/static/js/main.eac7a422.js.map"
   },
   "entrypoints": [
-    "static/css/main.82767a4c.css",
-    "static/js/main.08a504f6.js"
+    "static/css/main.b17beaa9.css",
+    "static/js/main.eac7a422.js"
   ]
 }
